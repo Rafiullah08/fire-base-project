@@ -1,0 +1,13 @@
+.modal-body input{
+width: 100%;
+height: 35px;
+border: none;
+box-shadow: 1px 1px 4px aqua ;
+}
+.modal-body textarea{
+    width: 100%;
+    margin-top: 5px;
+border: none;
+box-shadow: 1px 1px 4px aqua ;
+
+}
